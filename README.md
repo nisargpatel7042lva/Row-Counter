@@ -6,3 +6,6 @@ npm start
 ```
 
 Happy Coding!
+
+
+Check put the website here[https://easecounter.netlify.app/]
